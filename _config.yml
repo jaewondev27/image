@@ -1,1 +1,17 @@
-theme: minima
+title: MyJDMS
+description: 학교 앱 공식 페이지
+
+theme: just-the-docs
+
+url: "https://jaewondev27.github.io"
+baseurl: ""
+
+nav:
+  - title: 홈
+    url: /
+  - title: 공지사항
+    url: /notice
+  - title: 이용약관
+    url: /terms
+  - title: 개인정보처리방침
+    url: /privacy

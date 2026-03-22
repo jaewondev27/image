@@ -1,8 +1,10 @@
 title: MyJDMS
 description: 학교 앱 공식 페이지
 
-theme: just-the-docs
-
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  
 url: "https://jaewondev27.github.io"
 baseurl: ""
 
